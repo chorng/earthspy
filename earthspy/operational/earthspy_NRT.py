@@ -8,10 +8,6 @@
 
 import earthspy.earthspy as es
 
-from importlib import reload
-
-es = reload(es)
-
 # %% set example evalscript, data collectio and bounding box
 
 ex_evalscript = """
