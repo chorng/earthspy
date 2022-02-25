@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Adrien Wehrlé, University of Zurich, Switzerland
+@author: Adrien Wehrlé, EO-IO, University of Zurich, Switzerland
 
 """
 
